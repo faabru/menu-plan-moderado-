@@ -1,0 +1,15 @@
+# Rosé - Jardín Urbano Gastronómico
+
+> Restaurante boutique con gastronomía de autor en un elegante jardín urbano. Desde 2023.
+
+## Carta
+
+- [Entradas](https://rose-restaurante.com/#Entradas): provoleta, empanadas, picada y humita.
+- [Principales](https://rose-restaurante.com/#Principales): asado de tira, bife de chorizo, lomo de cerdo, ñoquis y lomo pizza.
+- [Acompañamientos](https://rose-restaurante.com/#Acompañamientos): pastel de papa y ensalada de estación.
+
+## Contacto
+
+- Dirección: Av. del Jardín 1234 · Ciudad, Argentina
+- Reservas: +54 11 1234-5678
+- Horario: Martes a Domingo · 12:00 – 23:00
